@@ -21,6 +21,7 @@ body {
 
 nav {
     border-bottom: 2px solid #cccccc;
+    
 }
 
 ul {
@@ -66,7 +67,7 @@ ul {
   .container{
     margin: auto;
     width: 75%;
-    border: 2px solid #dddddd;);
+    border: 2px solid #dddddd;
     padding: 10px;
     background-color: whitesmoke;
     flex: 1 0 auto;     
@@ -77,6 +78,10 @@ ul {
       line-height: 2rem;  
       font-size: medium;
 
+  }
+
+  .img {
+      display:  block;
   }
 
 
